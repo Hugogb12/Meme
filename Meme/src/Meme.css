@@ -1,0 +1,29 @@
+#legenda{
+    color: white;
+    font-size: 40px;
+    background-color: black;
+}
+
+#button{
+    border-radius: 10px;
+    width: 300px;
+    height: 40px;
+}
+
+#button:hover{
+    background-color:chartreuse;
+}
+
+#imagem {
+    height: 450px;
+    border: solid 5px;
+}
+
+body{
+    background-color:cadetblue;
+}
+
+#nome{
+    border-bottom: solid 3px;
+    text-align: center;
+}
